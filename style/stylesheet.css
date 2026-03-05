@@ -1,0 +1,52 @@
+/* Page background */
+body {
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: #000000;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* Navigation links */
+nav a {
+    color: #fcd116;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Table styling */
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 20px;
+}
+
+/* Table borders */
+table, th, td {
+    border: 1px solid black;
+}
+
+/* Table cell spacing */
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+/* Custom CSS class */
+.highlight {
+    background-color: #fff3cd;
+    padding: 10px;
+    border: 2px solid #fcd116;
+}
